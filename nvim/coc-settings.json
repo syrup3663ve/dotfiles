@@ -1,0 +1,11 @@
+{
+  "coc.preferences.formatOnSave": true,
+  "rust-analyzer.enable": true,
+  "rust-analyzer.checkOnSave.features": "all",
+  "rust-analyzer.checkOnSave.command": "clippy",
+  "snippets.ultisnips.directories": [
+    "UltiSnips",
+    "~/.config/nvim/utils/snippets"
+  ],
+  "snippets.ultisnips.pythonPrompt": false
+}
