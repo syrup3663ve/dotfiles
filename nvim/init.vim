@@ -37,6 +37,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
+Plug 'cohama/lexima.vim'
 call plug#end()
 
 " Coc
